@@ -20,30 +20,28 @@ git checkout -b add/your-animation-name
 
 ### 4. Add Your Animation
 
-#### Option A: Add Code
-Create a new folder with your animation:
+#### Option A: Add to Existing Categories
+If you have a link to a video, tutorial, or repository, add it to the appropriate file:
+- `categories/mathematics.md`
+- `categories/computer_science.md`
+- `resources/learning.md`
+- `resources/plugins.md`
+
+#### Option B: Add a Showcase Creator
+If you want to suggest a notable creator, add them to `showcase/creators.md`.
+
+#### Option C: Add Code Examples
+Create a new folder in an `examples/` directory (create it if it doesn't exist) with your animation:
 ```
-animations/
+examples/
 ├── your_animation_name/
 │   ├── your_scene.py          # Your Manim code
 │   ├── README.md              # Description and instructions
 │   └── thumbnail.png          # Optional preview image
 ```
 
-#### Option B: Add Links
-Update the README.md with links to your animation videos or repositories.
-
-### 5. Update README.md
-Add your animation to the appropriate category in the README with:
-- Animation name/title
-- Brief description
-- Link to code or video
-- Author credit
-
-Example format:
-```markdown
-- **[Animation Title](link)** - Brief description of what the animation demonstrates. By [@username](github-profile-link)
-```
+### 5. Update Navigation
+If you create a new top-level category or resource file, ensure it's linked in the `README.md` navigation table.
 
 ### 6. Commit and Push
 ```bash

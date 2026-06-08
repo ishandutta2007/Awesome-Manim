@@ -1,118 +1,88 @@
-# Awesome Manim ✨
+# <p align="center">✨ Awesome Manim ✨</p>
 
-> A curated collection of amazing animations created using [Manim](https://www.manim.community/).
+<p align="center">
+  <img src="https://img.shields.io/badge/Manim-Community-blue?style=for-the-badge&logo=python&logoColor=white" alt="Manim Community">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manim?style=for-the-badge&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
+</p>
 
-Manim is an animation engine for explanatory mathematics videos. This repository showcases the most creative, educational, and inspiring animations created with Manim by the community.
-
-## 📚 Table of Contents
-
-- [What is Manim?](#what-is-manim)
-- [Getting Started](#getting-started)
-- [Featured Animations](#featured-animations)
-- [Categories](#categories)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 🎬 What is Manim?
-
-Manim is a Python library for creating mathematical animations. It's used to create:
-- Educational videos explaining mathematical concepts
-- Visualizations of complex algorithms
-- Artistic mathematical explorations
-- Interactive mathematical demonstrations
-
-**Official Resources:**
-- [Manim Community Documentation](https://docs.manim.community/)
-- [Manim GitHub Repository](https://github.com/ManimCommunity/manim)
-- [Manim Community Discord](https://discord.gg/mMRrZQW)
-
-## 🚀 Getting Started
-
-To use the animations and code in this repository:
-
-```bash
-# Clone the repository
-git clone https://github.com/ishandutta2007/Awesome-Manim.git
-cd Awesome-Manim
-
-# Install Manim
-pip install manim
-
-# Run an animation (example)
-manim -pql scene_name.py SceneClassName
-```
-
-## 🎨 Featured Animations
-
-*Add your featured animations here with links to videos, repositories, or descriptions.*
-
-### Top Picks
-- [Animation 1] - Brief description
-- [Animation 2] - Brief description
-
-## 📂 Categories
-
-Animations are organized by category:
-
-- **Mathematics**
-  - Linear Algebra
-  - Calculus
-  - Geometry
-  - Number Theory
-  
-- **Computer Science**
-  - Algorithms
-  - Data Structures
-  - Programming Concepts
-  
-- **Physics**
-  - Mechanics
-  - Waves
-  - Quantum Mechanics
-  
-- **Art & Visualization**
-  - Fractals
-  - 3D Visualizations
-  - Abstract Mathematics
-
-## 📖 Resources
-
-### Learning Manim
-- [Manim Official Documentation](https://docs.manim.community/)
-- [Manim Tutorial Series](https://www.youtube.com/c/3blue1brown)
-- [Community Tutorials](https://docs.manim.community/en/stable/reference.html)
-
-### Inspiration
-- [3Blue1Brown Channel](https://www.youtube.com/c/3Blue1Brown)
-- [Manim Community Showcase](https://www.manim.community/)
-- [YouTube Manim Creators](https://www.youtube.com/results?search_query=manim+animation)
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork** the repository
-2. **Create** a new branch for your contribution
-3. **Add** your animation code and documentation
-4. **Update** the README to include your work
-5. **Submit** a pull request with a clear description
-
-For detailed guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-### What to Contribute
-- Amazing animations you've created
-- Links to videos showcasing animations
-- Code examples and tutorials
-- Documentation improvements
-- Bug fixes and enhancements
-
-## 📝 License
-
-This repository is licensed under the [MIT License](LICENSE).
+<p align="center">
+  <strong>A curated collection of breathtaking animations, tutorials, and resources for <a href="https://www.manim.community/">Manim</a>.</strong>
+</p>
 
 ---
 
-**Created with ❤️ by the Manim community**
+[Manim](https://www.manim.community/) is an animation engine for explanatory math videos. It's used to create precise programmatic animations as seen in the famous [3Blue1Brown](https://www.youtube.com/c/3blue1brown) videos. This repository aims to be the most comprehensive source for everything Manim.
 
-Have an amazing animation? [Contribute to this project!](CONTRIBUTING.md)
+## 🗺️ Navigation
+
+| [🧮 Mathematics](./categories/mathematics.md) | [💻 Computer Science](./categories/computer_science.md) | [🎓 Learning](./resources/learning.md) |
+| :---: | :---: | :---: |
+| [🧩 Plugins](./resources/plugins.md) | [🌟 Notable Creators](./showcase/creators.md) | [🤝 Contributing](./CONTRIBUTING.md) |
+
+---
+
+## 🚀 Quick Start
+
+To start creating your own animations with the Community Edition:
+
+```bash
+# Install Manim
+pip install manim
+
+# Run an example scene
+manim -pql scene.py SquareToCircle
+```
+
+---
+
+## 📂 Categories
+
+Explore amazing animations categorized by field:
+
+### 📐 [Mathematics](./categories/mathematics.md)
+*   **Geometry:** Non-Euclidean spaces, fractals, and theorems.
+*   **Calculus:** Integrals, derivatives, and Taylor series.
+*   **Linear Algebra:** Transformations, matrices, and eigenvectors.
+
+### 💻 [Computer Science](./categories/computer_science.md)
+*   **Algorithms:** Sorting, graph theory, and optimization.
+*   **Neural Networks:** Visualizing layers, backpropagation, and learning.
+*   **Data Structures:** Trees, heaps, and linked lists.
+
+---
+
+## 🛠️ Essential Resources
+
+### 📖 [Learning Manim](./resources/learning.md)
+Master the art of mathematical animation with curated tutorials and guides. From absolute beginner to advanced developer.
+
+### 🔌 [Powerful Plugins](./resources/plugins.md)
+Supercharge your Manim workflow with community plugins for physics, chemistry, slides, and voiceovers.
+
+### 🌟 [Notable Creators](./showcase/creators.md)
+Get inspired by the masters of Manim. A list of the best YouTube channels and creators in the community.
+
+---
+
+## 🤝 Contributing
+
+Got an amazing animation or a useful resource? We’d love to include it!
+
+1. Check out the [Contributing Guidelines](CONTRIBUTING.md).
+2. Follow the directory structure:
+    *   `/categories` for topic-specific links.
+    *   `/resources` for tools and learning materials.
+    *   `/showcase` for creator spotlights.
+
+---
+
+## 🏷️ Keywords & SEO
+`Manim` `3Blue1Brown` `Mathematical Animations` `Python` `Animation Engine` `Data Visualization` `STEM Education` `Open Source` `Algorithm Visualization` `Physics Simulation`
+
+---
+
+<p align="center">
+  Made with ❤️ by the Manim Community
+</p>
