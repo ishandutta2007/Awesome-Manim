@@ -1,12 +1,20 @@
 # <p align="center">✨ Awesome Manim ✨</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manim-Community-blue?style=for-the-badge&logo=python&logoColor=white" alt="Manim Community">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manim?style=for-the-badge&color=gold" alt="GitHub Stars">
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
+  <a href="https://www.manim.community/">
+    <img src="https://img.shields.io/badge/Manim-Community-blue?style=for-the-badge&logo=python&logoColor=white" alt="Manim Community">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+  </a>
+  <a href="https://github.com/ishandutta2007/Awesome-Manim/stargazers">
+    <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manim?style=for-the-badge&color=gold" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/ishandutta2007/Awesome-Manim/pulls">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
+  </a>
   <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
